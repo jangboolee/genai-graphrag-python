@@ -66,7 +66,7 @@ kg_builder = SimpleKGPipeline(
 # end::kg_builder[]
 
 # tag::pdf_file[]
-pdf_file = "./genai-graphrag-python/data/genai-fundamentals_
+pdf_file = "./genai-graphrag-python/data/genai-fundamentals_1-generative-ai_1-what-is-genai.txt"
 # end::pdf_file[]
 
 # tag::run_loader[]
